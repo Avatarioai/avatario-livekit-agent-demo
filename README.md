@@ -25,7 +25,7 @@ python3 agent.py start
 ```
 
 
-3. **Customization:**
+**Customization:**
 - Reference and modify the `entrypoint` function in `agent.py` as needed.
 - Customize the elements in `agent_pipeline/custom_agent_pipeline.py`  and `agent_pipeline/custom_agent_playout.py`to fit your use case.
 ---
